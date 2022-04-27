@@ -1,0 +1,23 @@
+{
+  "name": "hyz-encript",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/hyz-encript": {
+      "message": "hyz-encript:showPanel"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "hyz-encript",
+    "width": 600,
+    "height": 400,
+    "min-width": 600,
+    "min-height": 400,
+    "max-width": 600,
+    "max-height": 400
+  }
+}
