@@ -1,5 +1,8 @@
 # hyz-encript
+This artice : https://forum.cocos.org/t/topic/124553
+
 Cocoscreator is encrypted and confused. Based on 2.4.5, it is theoretically applicable to engine 2.4.0-2.4.6. The most important thing is open source.
+
 ![screenshot](https://user-images.githubusercontent.com/11954247/141231612-5fe82cd1-a27a-4f16-ae22-d299c13b17a0.png)
 
 
